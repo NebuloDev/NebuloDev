@@ -6,14 +6,13 @@
 
 Hiya, I'm Amir. I'm a student learning computer and software engineering by working on all sorts of projects, large and small.
 
-I'm strong in the following languages and frameworks (or try to be) :
-- Python 🐍
-- Java ☕
-- HTML/CSS/JS 🌐
-- C# 🪟
-- Flask 🌶️
-- Electron ⚛️
-- Unity 🧊
+I'm strong in the following languages, tools, and frameworks (or try to be) :
+- Python 🐍 / Flask 🌶️/ FastAPI ⚡
+- HTML/CSS/JS 🌐 / Electron ⚛️ / Tailwind 💨
+- C# 🪟 / Unity 🧊
+- Postgres 🐘 / Docker 📦
+- Steamworks ⚙️
+- Linux 🐧
 
 You can find code snippets and demo projects of mine in my [CodeLib](https://github.com/NebuloDev/CodeLib).
 
