@@ -7,12 +7,11 @@
 Hiya, I'm Amir. I'm a student learning computer and software engineering by working on all sorts of projects, large and small.
 
 I'm strong in the following languages, tools, and frameworks (or try to be) :
-- Python 🐍 / Flask 🌶️/ FastAPI ⚡
-- HTML/CSS/JS 🌐 / Electron ⚛️ / Tailwind 💨
-- C# 🪟 / Unity 🧊
-- Postgres 🐘 / Docker 📦
-- Steamworks ⚙️
-- Linux 🐧
+- Python 🐍 / Flask 🌶️ / FastAPI ⚡
+- HTML/CSS/JS 🌐 / Electron :electron: / Tailwind 💨
+- TypeScript 🟦 / React ⚛️ / Expo 📱
+- C# 🪟 / Unity 🧊 / Steamworks ⚙️
+- Linux 🐧 / DevOps 🚧 / Docker 📦
 
 You can find code snippets and demo projects of mine in my [CodeLib](https://github.com/NebuloDev/CodeLib).
 
@@ -40,6 +39,6 @@ ForgeKit | An open-source set of applications to make distributing and updating 
 You can find on any of the following platforms:
 
 - Discord: thenebulo
-- LinkedIn: [amir-djaffar](https://www.linkedin.com/in/amir-djaffar/)
+- LinkedIn: [amirdjaffar](https://www.linkedin.com/in/amirdjaffar/)
 - Personal Inquiries: [nebulo.dev@proton.me](mailto:nebulo.dev@proton.me)
-- Professional Inquiries: [amir.djaffar@outlook.com](mailto:amir.djaffar@outlook.com)
+- Professional Inquiries: [amir.djaffar@proton.me](mailto:amir.djaffar@proton.me)
